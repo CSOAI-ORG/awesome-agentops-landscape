@@ -381,3 +381,18 @@ To add a new tool, open a PR that appends an entry to that file — the pipeline
 - Open-source tools are sorted automatically by star count; no need to worry about order.
 
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents. Track token usage, session status, and message trends.
+
+
+## Powered by CSOAI
+
+[![Council of AI](https://img.shields.io/badge/Powered%20by-CSOAI-blue)](https://github.com/councilof-ai)
+
+This awesome list is maintained by the [Council of AI (CSOAI)](https://github.com/councilof-ai) — the open standard for sovereign AI governance, measurement, and compliance.
+
+- 🌐 **Website**: [councilof.ai](https://councilof.ai)
+- 📊 **Governance Board**: [GSPC](https://councilof.ai/api/gspc)
+- 🔒 **18 GitHub Topics**: Sovereign AI governance, measurement, and compliance
+- 📦 **377+ Governed Tools**: MCP servers, benchmarks, and evaluation frameworks
+
+> *"Sovereign AI for a governed future."*
+
