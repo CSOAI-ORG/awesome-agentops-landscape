@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-09-29  
+**Last generated:** 2026-09-30  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -122,13 +122,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 15.9k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 11.7k | https://github.com/Arize-ai/phoenix |
-| Bifrost | ⭐ 8.4k | https://github.com/maximhq/bifrost |
-| Evidently AI | ⭐ 7.9k | https://github.com/evidentlyai/evidently |
+| Bifrost | ⭐ 8.5k | https://github.com/maximhq/bifrost |
+| Evidently AI | ⭐ 8.0k | https://github.com/evidentlyai/evidently |
 | Guardrails AI | ⭐ 7.5k | https://github.com/guardrails-ai/guardrails |
 | OpenLLMetry | ⭐ 7.5k | https://github.com/traceloop/openllmetry |
 | NeMo Guardrails | ⭐ 7.2k | https://github.com/NVIDIA-NeMo/Guardrails |
 | Helicone | ⭐ 6.2k | https://github.com/Helicone/helicone |
-| AgentOps SDK | ⭐ 5.8k | https://github.com/AgentOps-AI/agentops |
+| AgentOps SDK | ⭐ 5.9k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.8k | https://github.com/agenta-ai/agenta |
 | TruLens | ⭐ 3.6k | https://github.com/truera/trulens |
 | Laminar | ⭐ 3.3k | https://github.com/lmnr-ai/lmnr |
@@ -136,19 +136,19 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.1k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 887 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 901 | https://github.com/TIGER-AI-Lab/ClawBench |
 | SandBase Harness | ⭐ 678 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 375 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 339 | https://github.com/monocle2ai/monocle |
-| OrcaReplay | ⭐ 269 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| OrcaReplay | ⭐ 268 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | traceAI | ⭐ 222 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 143 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 141 | https://github.com/kubestellar/console |
 | agenttrace | ⭐ 137 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 121 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 113 | https://github.com/Necmttn/ax |
-| Dunetrace | ⭐ 65 | https://github.com/dunetrace/dunetrace |
-| RewardHarness | ⭐ 62 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| Dunetrace | ⭐ 66 | https://github.com/dunetrace/dunetrace |
+| RewardHarness | ⭐ 63 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
